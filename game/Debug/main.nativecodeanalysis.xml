@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\windows 10\desktop\compro\mcu</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>306</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'CARD::seq' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>CARD::{ctor}</FUNCTION>
+    <DECORATED>??0CARD@@QAE@XZ</DECORATED>
+    <FUNCLINE>306</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

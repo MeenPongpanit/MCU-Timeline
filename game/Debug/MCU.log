@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Windows 10\Desktop\Compro\MCU\main.cpp(350): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MCU.vcxproj -> C:\Users\Windows 10\Desktop\Compro\MCU\Debug\MCU.exe
